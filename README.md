@@ -5,9 +5,9 @@
 
 
 
-[![PCSAPS시연영상][2]][1]
+#### ●[시연영상](https://www.youtube.com/watch?v=2XYPsuYIMac )
 
-[1]: https://www.youtube.com/watch?v=2XYPsuYIMac
-[2]: preview(20240116).png(live preview)
+### 자율주행시대에 맞는 자율모니터링 시스템, PCSAPS
 
+![preview(20240116)](./preview(20240116).png)
 
